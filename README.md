@@ -6,7 +6,7 @@ You can find the original resource [here](https://see.stanford.edu/Course/CS229)
 
 ------
 
-## Math foundation
+## Math Foundation
 
 - [ ] Linear Algebra
 - [ ] Probability Theory
