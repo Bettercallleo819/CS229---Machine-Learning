@@ -9,7 +9,7 @@ You can find the original resource [here](https://see.stanford.edu/Course/CS229)
 ## Math Foundation
 
 - [x] Linear Algebra
-- [ ] Probability Theory
+- [x] Probability Theory
 - [ ] Optimization
 - [ ] Hidden Markov Models
 - [ ] Gaussian Process
