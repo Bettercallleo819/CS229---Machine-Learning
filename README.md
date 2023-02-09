@@ -16,7 +16,7 @@ You can find the original resource [here](https://see.stanford.edu/Course/CS229)
 
 ## Lecture Notes
 
-- [ ] Linear Models
+- [x] Linear Models
 - [ ] Generative Learning 
 - [ ] SVM
 - [ ] Learning Theory
