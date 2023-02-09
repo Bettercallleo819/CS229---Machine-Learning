@@ -20,7 +20,7 @@ You can find the original resource [here](https://see.stanford.edu/Course/CS229)
 - [ ] Generative Learning 
 - [ ] SVM
 - [ ] Learning Theory
-- [ ] Regulazation and Model Selection
+- [x] Regulazation and Model Selection
 - [ ] Perceptron
 - [ ] K-means 
 - [ ] Gaussian 
