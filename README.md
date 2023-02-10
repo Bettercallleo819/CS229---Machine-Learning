@@ -21,8 +21,8 @@ You can find the original resource [here](https://see.stanford.edu/Course/CS229)
 - [ ] SVM
 - [x] Learning Theory
 - [x] Regulazation and Model Selection
-- [ ] Perceptron
-- [ ] K-means 
+- [x] Perceptron
+- [x] K-means 
 - [ ] Gaussian 
 - [ ] EM
 - [ ] Factor Analysis
