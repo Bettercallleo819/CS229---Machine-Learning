@@ -28,7 +28,7 @@ You can find the original resource [here](https://see.stanford.edu/Course/CS229)
 - [ ] Factor Analysis
 - [ ] Principle Component Analysis
 - [ ] Independent Components Analysis
-- [ ] RL and Control
+- [x] RL and Control
 
 ## Assignments
 
